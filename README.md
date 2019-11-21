@@ -5,7 +5,7 @@ Projeto proposto pela empresa Contele para vaga de NodeJS Junior, que simula uma
 
 ## Tecnologias
 
-Projeto desenvolvido com as seguintes tecnologias:
+Projeto desenvolvido utilizando as seguintes tecnologias:
 - NodeJS com express
 - ReactJS
 - Reactotron
@@ -14,7 +14,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ### Iniciar projeto
 
-Primeiro precisa instalar as dependencias dos projetos, só executar ```yarn``` ou ```npm install``` dentro da pasta dos projetos
+Primeiro precisa instalar as dependências dos projetos, só executar ```yarn``` ou ```npm install``` dentro da pasta dos projetos
 
 ##### nodejs
 
