@@ -25,10 +25,19 @@ Para rodar a parte do backend, primeiro precisa criar um banco de dados com as c
 Depois de criado o banco de dados e as tabelas, executar:
 ```
   yarn dev
+``` 
+  ou 
 ```
+  npm run dev
+```
+
 ##### reactjs
 
-Para rodar a parte do frontend (ReactJS) basta executar:
-```
+Para rodar a parte do frontend basta executar:
+``` 
   yarn start
+``` 
+  ou 
+```
+  npm start
 ```
